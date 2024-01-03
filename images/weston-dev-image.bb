@@ -11,8 +11,6 @@ FONTS = " \
 "
 
 NET_STUFF = " \
-    mbedtls-dev \
-    mbedtls-programs \
     nng-dev \
     nng-tools \
     protobuf-dev \

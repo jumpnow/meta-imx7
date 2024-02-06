@@ -9,6 +9,7 @@ DEV_SDK = " \
     cpp \
     cpp-symlinks \
     elfutils elfutils-binutils \
+    fmt fmt-dev \
     gcc \
     gcc-symlinks \
     g++ \

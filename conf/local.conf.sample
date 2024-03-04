@@ -2,7 +2,7 @@
 # Only tested with the NXP imx7ulp eval board
 # Yocto Project 4.3 Poky distribution [nanbield] branch
 
-DISTRO_FEATURES = "ext2 opengl pam security systemd usbhost wayland ${DISTRO_FEATURES_LIBC}"
+DISTRO_FEATURES = "ext2 opengl security systemd usbhost ${DISTRO_FEATURES_LIBC}"
 
 DISTRO_FEATURES_BACKFILL_CONSIDERED += "pulseaudio sysvinit"
 

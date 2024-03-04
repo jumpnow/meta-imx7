@@ -12,9 +12,13 @@ This layer depends on:
     URI: https://github.com/Freescale/meta-freescale.git
     branch: master
 
+    URI: https://code.qt.io/yocto/meta-qt6.git
+    branch: 6.7
+
 Latest commits:
 
-    poky d3b27346c3
+    poky 1a5c00f00c
     meta-openembedded da9063bdf
     meta-security 5938fa5
-    meta-freescale e3f8a44e 
+    meta-freescale e3f8a44e
+    meta-qt6 9c1bca4

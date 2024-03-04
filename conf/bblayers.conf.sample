@@ -14,5 +14,6 @@ BBLAYERS ?= " \
   ${HOME}/poky-nanbield/meta-openembedded/meta-python \
   ${HOME}/poky-nanbield/meta-security \
   ${HOME}/poky-nanbield/meta-freescale \
+  ${HOME}/poky-nanbield/meta-qt6 \
   ${HOME}/imx7/meta-imx7 \
 "

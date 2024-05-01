@@ -47,10 +47,6 @@ EXTRA_TOOLS = " \
     zip \
 "
 
-SECURITY_TOOLS = " \
-    checksec \
-"
-
 WIFI_TOOLS = " \
     iw \
     wpa-supplicant \
@@ -59,7 +55,6 @@ WIFI_TOOLS = " \
 IMAGE_INSTALL += " \
     ${CORE_OS} \
     ${EXTRA_TOOLS} \
-    ${SECURITY_TOOLS} \
     ${WIFI_TOOLS} \
 "
 

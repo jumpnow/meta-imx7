@@ -10,11 +10,11 @@ This layer depends on:
     branch: master
 
     URI: https://code.qt.io/yocto/meta-qt6.git
-    branch: 6.7
+    branch: 6.8
 
 Latest commits:
 
-    poky 0efe15c5ba
+    poky abcd5a88a3
     meta-openembedded 4a7bb77f7
-    meta-freescale 90f519b0
-    meta-qt6 70219b8
+    meta-freescale 9301150f
+    meta-qt6 0e2daeb

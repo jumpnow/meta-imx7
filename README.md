@@ -17,4 +17,4 @@ Latest commits:
     poky aee2a47dd9
     meta-openembedded b8d1a14f7
     meta-freescale 9f7ec458
-    meta-qt6 c0ecf9f
+    meta-qt6 b7b1987

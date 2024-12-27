@@ -1,10 +1,10 @@
 This layer depends on:
 
     URI: git://git.yoctoproject.org/poky.git
-    branch: scarthgap
+    branch: styhead
 
     URI: git://git.openembedded.org/meta-openembedded
-    branch: scarthgap
+    branch: styhead
 
     URI: https://github.com/Freescale/meta-freescale.git
     branch: master
@@ -14,7 +14,7 @@ This layer depends on:
 
 Latest commits:
 
-    poky aee2a47dd9
-    meta-openembedded b8d1a14f7
-    meta-freescale 9f7ec458
+    poky d65fa3f3a7
+    meta-openembedded 5d54a52fb
+    meta-freescale 8cc3bb0f
     meta-qt6 b7b1987

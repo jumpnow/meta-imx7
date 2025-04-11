@@ -1,20 +1,20 @@
 This layer depends on:
 
     URI: git://git.yoctoproject.org/poky.git
-    branch: styhead
+    branch: walnascar
 
     URI: git://git.openembedded.org/meta-openembedded
-    branch: styhead
+    branch: walnascar
 
     URI: https://github.com/Freescale/meta-freescale.git
-    branch: styhead
+    branch: master
 
     URI: https://code.qt.io/yocto/meta-qt6.git
     branch: 6.9
 
 Latest commits:
 
-    poky 70dc28ac28
-    meta-openembedded c93994f1bb
+    poky 39cbc37918
+    meta-openembedded 2fb85f67dd
     meta-freescale 5940d6e2
     meta-qt6 338aefag
